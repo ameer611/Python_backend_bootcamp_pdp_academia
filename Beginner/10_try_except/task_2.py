@@ -1,0 +1,2 @@
+n = []
+print(n['typeError'])
